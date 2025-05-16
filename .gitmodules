@@ -1,0 +1,3 @@
+[submodule "LLaVA-MORE"]
+	path = LLaVA-MORE
+	url = https://github.com/aimagelab/LLaVA-MORE.git
